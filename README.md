@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+I like juiceboxes, and sleeping, mostly.
+This is my first repo :)
